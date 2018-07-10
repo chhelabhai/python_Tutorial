@@ -35,17 +35,18 @@ The following are examples that operate on the "test1.csv" and "test2.csv" files
 
 ### test1.csv
 
-
+```
 a,b,c,d,e
 97,38,15,7,23
 8,41,15,85,50
 83,94,10,84,21
 43,29,68,87,4
 85,54,37,7,24
-
+```
 
 ### test2.csv
 
+```
 l,m,n,o,p
 12,18,9,54,76
 24,92,61,42,9
@@ -53,6 +54,7 @@ l,m,n,o,p
 53,61,49,92,26
 16,83,53,41,75
 
+```
 
 ## Left Join
 
