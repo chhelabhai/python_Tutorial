@@ -58,7 +58,6 @@ l,m,n,o,p
 
 ## Left Join
 
-![left join example](images/left.png)
 
 'python join.py test1.csv "a" test2.csv "m" output.csv -t left'
 
@@ -73,7 +72,7 @@ a,b,c,d,e,l,m,n,o,p
 
 ## Right Join
 
-![right join example](images/right.png)
+
 
 'python join.py test1.csv "a" test2.csv "m" output.csv -t right'
 ```
@@ -87,7 +86,7 @@ null,null,null,null,null,53,61,49,92,26
 
 ## Inner Join
 
-![inner join example](images/inner.png)
+
 
 'python join.py test1.csv "a" test2.csv "m" output.csv -t inner'
 ```
